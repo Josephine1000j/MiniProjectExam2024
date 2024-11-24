@@ -6,11 +6,13 @@ TagManager:
   tags:
   - SpawnTrigger
   - Ground
+  - Obstacle
+  - Coin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Obstacles
   - Water
   - UI
   - 

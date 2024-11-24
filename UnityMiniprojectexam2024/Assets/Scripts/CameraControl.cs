@@ -24,6 +24,5 @@ public class CameraControl : MonoBehaviour
     {
         transform.position = new Vector3(player.position.x,player.position.y + yOffset, player.position.z + zOffset);
 
-        Debug.Log(transform.position);
     }
 }
