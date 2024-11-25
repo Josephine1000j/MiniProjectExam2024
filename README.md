@@ -3,7 +3,7 @@ Mini-Project
 Project Name: Hometown Runner 
 Name: Josephine Møldrup Møller Holm
 Student Number: 20233509
-Link to Project: [https://github.com/Josephine1000j/MiniProjectExam2024.git](https://github.com/Josephine1000j/MiniProjectExam2024)
+Link to Project: [[https://github.com/Josephine1000j/MiniProjectExam2024.git](https://github.com/Josephine1000j/MiniProjectExam2024)](https://github.com/Josephine1000j/MiniProjectExam2024)
 
 Overview of the Game:
 The game is a "but worse" take on popular endless runner games like Temple Run and Subway Surfers. The player controls a character who continuously runs forward after pressing the forward key (W or up arrow). The objective is to avoid obstacles scattered along the road, dodging them by running left or right or jumping, as the player’s character speeds up overtime.
